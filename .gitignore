@@ -1,0 +1,14 @@
+# data (Kaggle competition files are not redistributed)
+data/raw/*.csv
+data/raw/*.zip
+# experiment outputs
+results/
+# python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
