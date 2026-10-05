@@ -169,7 +169,7 @@ These come from the paper's full run.
   title   = {A Trust-Aware Explainable Framework for Retail Sales Forecasting: Auditing Explanations and Routing Forecasts for Review},
   journal = {IEEE Access},
   year    = {2026},
-  note    = {under review}
+  note    = {preparing to submit}
 }
 ```
 
